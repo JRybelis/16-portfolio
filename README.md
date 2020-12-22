@@ -10,7 +10,7 @@ This project is for educational porpuses only. Pull requests are welcome, but pr
 
 Site published at https://jrybelis.github.io/16-portfolio/
 
-Design: [React theme five](https://demo.hasthemes.com/mitech-preview/index-infotechno.html)
+Design: [React theme five](https://react.theme-land.com/theme-five)
 
 
 ## Project features
@@ -22,4 +22,5 @@ Design: [React theme five](https://demo.hasthemes.com/mitech-preview/index-infot
 - No AJAX (data sending)
 
 ## Authors
+
 [Jokūbas](https://github.com/JRybelis)
